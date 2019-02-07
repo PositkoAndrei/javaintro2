@@ -27,9 +27,9 @@ public class Month_if {
             }else if (NumberOfMonth == 12) {
                 System.out.println("Декабрь");
             }else if (NumberOfMonth <=1) {
-                System.out.println("Ошибка");
+                System.out.println("Такого месяца не существует");
             }else if (NumberOfMonth >=12) {
-                System.out.println("Ошибка");
+                System.out.println("Такого месяца не существует");
 
 
             }
